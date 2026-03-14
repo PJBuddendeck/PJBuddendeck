@@ -2,7 +2,7 @@
 I am an aspiring computer and data scientist from Virginia looking to expand my knowledge is fullstack development, data analytics, and machine learning.
 Please read ahead to learn more about my skills and interests, and thank you for visiting!
 
-![](https://komarev.com/ghpvc/?username=PJBuddendeck&color=green)
+![](https://komarev.com/ghpvc/?username=PJBuddendeck&color=004E38)
 
 ## Education
 #### William & Mary
@@ -44,6 +44,8 @@ Additional Tools and Technologies:
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-PJB?style=flat-square&logo=github&color=%09%236cc644">
   <img alt="GitLab" src="https://img.shields.io/badge/-GitLab-PJB?style=flat-square&logo=gitlab&logoColor=white&color=%23fc6d26">
+  <img alt="VSCode" src="https://img.shields.io/badge/-Visual%20Studio%20Code-PJB?style=flat-square&logoColor=white&color=%2321a6f2">
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-PJB?style=flat-square&logoColor=white&color=%23232b37">
   <img alt="ArcGIS" src="https://img.shields.io/badge/-ArcGIS-PJB?style=flat-square&logo=arcgis&logoColor=white&color=%23005e96">
   <img alt="Windows" src="https://img.shields.io/badge/-Windows-PJB?style=flat-square&logoColor=white&color=%2300a4ef">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-PJB?style=flat-square&logo=linux&logoColor=black&color=%23f4be08">
@@ -56,6 +58,15 @@ Additional Tools and Technologies:
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 </p>
 
+## Additional Places to Find Me
+
+* [LinkedIn](https://www.linkedin.com/in/peter-buddendeck-9a538a345/)
+* [My Website](https://pjbuddendeck.github.io/)
+* [Instagram](https://www.instagram.com/peterb_8/)
+* [Facebook](https://www.facebook.com/people/Peter-Buddendeck/pfbid0HNstA5ENNmi1KiAMtXJdoPrFE6xMec4yXaLVUf2d5XyEAjSBQJPXGX4ydddgNgkPl/)
+
+## Contact
+Should you wish to contact me, please reach out using the [contact form](https://pjbuddendeck.github.io/#/contact) on my website.
 
 <!--
 **PJBuddendeck/PJBuddendeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
